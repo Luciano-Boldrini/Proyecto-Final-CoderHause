@@ -9,7 +9,7 @@
 	@include flexible(flex,column,center,center);
 	width: 300px;
 	height: 600px;
-	border: 3px solid black;
+	border: 3px double black;
 	border-radius: 10px;
 	a {
 		list-style: none;

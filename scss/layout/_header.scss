@@ -5,13 +5,16 @@
 	background-color: $background-color_2;
 	margin-left: 30px;
 	padding: 1px;
-	gap: 1px;
+	gap: 5px;
 	li {
-		border: 2.3px solid black;
-		box-shadow: 5px 5px 2px  black;
+		border: 5.3px double black;
+		
+		
 		
 		a {
 			color: $color_2;
+			font-style:normal;
+			
 		}
 		&:hover {
 			background-color: rgba(255, 217, 0, 0.603);
